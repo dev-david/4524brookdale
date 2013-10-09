@@ -192,7 +192,7 @@
 										<ul>
 											<li>4 Bed - 1 Bath</li>
 											<li>2,194 Sq Ft - 4,092 Lot</li>
-											<li>List: 7/18/13 - Pending: 8/7/12</li>
+											<li>List: 7/18/13 - Pending: 8/7/13</li>
 											<li>List: $335,000 - SOLD $345,000</li>
 										</ul>
 									</article>
